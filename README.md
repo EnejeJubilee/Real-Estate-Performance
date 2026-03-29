@@ -1,5 +1,5 @@
 # Real-Estate-Performance
-Analyzing sales trends, buyer insights, and growth opportunities
+Analyzing sales trends, buyer insights, and growth opportunities using SQL and Power BI
 ## INTRODUCTION
 This analysis provides a data-driven overview of real estate performance from 2020-2025.
 Tracks revenue growth, transaction volumes, average sale price, and buyer base.
